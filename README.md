@@ -17,7 +17,7 @@ Make sure that your *bin/* folder is in *$PATH*
 HOW TO USE IT
 -------------
 
-Well ...
+Well...
 
       $ csv2tex -h
 
