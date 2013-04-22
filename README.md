@@ -3,7 +3,6 @@ README
 
 csv2tex is simple tool for converting CSV file to LaTeX table.
 
-
 INSTALL
 -------
 
@@ -15,14 +14,12 @@ Simply copy the script into one of your *bin/* folder. For example :
 
 Make sure that your *bin/* folder is in *$PATH*
 
-
 HOW TO USE IT
 -------------
 
 Well ...
 
       $ csv2tex -h
-
 
 CONFIGURATION
 -------------
