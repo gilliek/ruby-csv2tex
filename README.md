@@ -24,6 +24,6 @@ Well...
 CONFIGURATION
 -------------
 
-You can easily change the LaTeX table tag by editing the "CONFIGURATION" 
-section at the begining of the script (after the license). Make sure that 
+You can easily change the LaTeX table tag by editing the "CONFIGURATION"
+section at the begining of the script (after the license). Make sure that
 you have escaped the "\" like this "\\\\" because Ruby interpret the "\".
